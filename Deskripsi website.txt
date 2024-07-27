@@ -1,0 +1,6 @@
+pada website ini (Luwuk Cofee Corner) terdapat fitur:
+1. Sidebar/Navbar
+2. modal Detail
+3. Payment Getway
+4. searching
+5. Cart + add cart
